@@ -1,6 +1,7 @@
 # KEYMAP
 ## EDITING THE KEYMAP
 Upload the ```kyria_keymap.json``` file to ```https://config.qmk.fm```
+
 You can redownload after making edits
 
 ## INSTALLATION
